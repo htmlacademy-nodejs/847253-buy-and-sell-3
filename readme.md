@@ -1,7 +1,7 @@
 # Учебный проект «Куплю. Продам» [![Build status][travis-image]][travis-url]
 
 * Студент: [Михаил Маклай](https://up.htmlacademy.ru/nodejs/3/user/847253).
-* Наставник: `Неизвестно`.
+* Наставник: [Вадим Осюков](https://up.htmlacademy.ru/nodejs/3/user/1411353).
 
 ---
 
